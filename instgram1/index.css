@@ -1,0 +1,22 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.navbar{height: 100vh; width: 20%; border: 0.5px solid #222;
+margin-top: 0; padding-left: 10px;}
+
+/*.main{height: 100vh; width: 80%; background-color: white; border: 1px solid black;
+margin-top: 0; margin-right: 0;}
+
+/*.stories{border: 1px solid black; width: 30%; min-height: 100vh; margin-left: 700px;
+margin-bottom: 200px;}*/
+
+.main{display: flex;}
+
+.images{max-height: 100vh; width: 25%; margin-left: 150px;}
+.dance{margin-left: 100px; margin-bottom: 20px}
+.gist{margin-left: 150px; }
+#gist{float: right ; margin-top: 20px; margin-right: 180px; font-weight: bolder;}
+#prof{float: right; margin-right: 150px; margin-top: 15px;}
+.para{float: right; margin-right: 150px; margin-left: 10px;}
+.not{float: right; margin-right: 130px}
+.don{color:blue; font-weight: bolder;}
+
